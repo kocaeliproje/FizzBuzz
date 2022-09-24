@@ -1,2 +1,3 @@
 # FizzBuzz
-FizzBuzz
+
+Sorusunun Void ve retunlu çözümü
