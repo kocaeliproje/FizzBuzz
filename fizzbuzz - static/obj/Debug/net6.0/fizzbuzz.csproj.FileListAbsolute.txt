@@ -1,0 +1,15 @@
+G:\Drive'ım\GlobalHubIo\fizzbuzz\obj\Debug\net6.0\fizzbuzz.csproj.AssemblyReference.cache
+G:\Drive'ım\GlobalHubIo\fizzbuzz\obj\Debug\net6.0\fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+G:\Drive'ım\GlobalHubIo\fizzbuzz\obj\Debug\net6.0\fizzbuzz.AssemblyInfoInputs.cache
+G:\Drive'ım\GlobalHubIo\fizzbuzz\obj\Debug\net6.0\fizzbuzz.AssemblyInfo.cs
+G:\Drive'ım\GlobalHubIo\fizzbuzz\obj\Debug\net6.0\fizzbuzz.csproj.CoreCompileInputs.cache
+G:\Drive'ım\GlobalHubIo\fizzbuzz\bin\Debug\net6.0\fizzbuzz.exe
+G:\Drive'ım\GlobalHubIo\fizzbuzz\bin\Debug\net6.0\fizzbuzz.deps.json
+G:\Drive'ım\GlobalHubIo\fizzbuzz\bin\Debug\net6.0\fizzbuzz.runtimeconfig.json
+G:\Drive'ım\GlobalHubIo\fizzbuzz\bin\Debug\net6.0\fizzbuzz.dll
+G:\Drive'ım\GlobalHubIo\fizzbuzz\bin\Debug\net6.0\fizzbuzz.pdb
+G:\Drive'ım\GlobalHubIo\fizzbuzz\obj\Debug\net6.0\fizzbuzz.dll
+G:\Drive'ım\GlobalHubIo\fizzbuzz\obj\Debug\net6.0\refint\fizzbuzz.dll
+G:\Drive'ım\GlobalHubIo\fizzbuzz\obj\Debug\net6.0\fizzbuzz.pdb
+G:\Drive'ım\GlobalHubIo\fizzbuzz\obj\Debug\net6.0\fizzbuzz.genruntimeconfig.cache
+G:\Drive'ım\GlobalHubIo\fizzbuzz\obj\Debug\net6.0\ref\fizzbuzz.dll
